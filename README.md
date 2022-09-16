@@ -1,4 +1,4 @@
-# Hello World 👋 , I'm Jafar
+# Hello World 👋 , I'm Jafar Tesla
 ---
 <!--## Find me here 👇-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jafar--idris-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafaru-idris-54a773231/)
@@ -24,10 +24,10 @@
 
 ## 📈 My GitHub Stats
 <p align="center"> 
-	<a href="https://github.com/the-brainiac/">
+	<a href="https://github.com/jafarjtown/">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jafarjtown&show_icons=true&line_height=27&count_private=true&custom_title=Jafar's%20GitHub%20Stats" alt="Jafar's GitHub Stats" />
 	</a>
-	<a href="https://github.com/the-brainiac">
+	<a href="https://github.com/jafarjtown">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarjtown&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
 	</a>
 </p>
