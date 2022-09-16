@@ -1,9 +1,9 @@
 # Hello World 👋 , I'm Jafar
 ---
 <!--## Find me here 👇-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-the--brainiac-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafaru-idris-54a773231/)
-[![Gmail](https://img.shields.io/badge/Gmail-Shivshanker-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:jafaridris82@gmail.com)
-[![Portfolio](https://media-exp1.licdn.com/dms/image/D4E35AQEOXKCOKT0Wtw/profile-framedphoto-shrink_100_100/0/1645232684104?e=1663920000&v=beta&t=lbhu6rhMROrcy1tTBKwVXcKKvJdTWIcBUMLASAohFZ4)](https://jafarjtown.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jafar--idris-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafaru-idris-54a773231/)
+[![Gmail](https://img.shields.io/badge/Gmail-Jafar-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:jafaridris82@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Porfolio-Jafar-blue?&style=flat-square)](https://jafarjtown.github.io)
 
   
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" /> -->
