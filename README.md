@@ -1,13 +1,10 @@
 # Hello World 👋 , I'm Jafar
 ---
 <!--## Find me here 👇-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-the--brainiac-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-brainiac/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-the--brainiac-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafaru-idris-54a773231/)
 [![Gmail](https://img.shields.io/badge/Gmail-Shivshanker-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:jafaridris82@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-the_brainiac-darkgreen?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/the_brainiac_/)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-the_brainiac-purple?&style=flat-square&logo=hackerearth&logoColor=light-purple)](https://www.hackerearth.com/@the_brainiac)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-the_brainiac-green?&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/the_brainiac/profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-the_brainiac-brown?&style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/the_brainiac)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=the-brainiac.the-brainiac)
+[![Portfolio](https://media-exp1.licdn.com/dms/image/D4E35AQEOXKCOKT0Wtw/profile-framedphoto-shrink_100_100/0/1645232684104?e=1663920000&v=beta&t=lbhu6rhMROrcy1tTBKwVXcKKvJdTWIcBUMLASAohFZ4)](https://jafarjtown.github.io)
+
   
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/the-brainiac/the-brainiac/main/code.gif?raw=true" width="500" height="320" /> -->
 
@@ -28,9 +25,9 @@
 ## 📈 My GitHub Stats
 <p align="center"> 
 	<a href="https://github.com/the-brainiac/">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-brainiac&show_icons=true&line_height=27&count_private=true&custom_title=Shivshanker's%20GitHub%20Stats" alt="Shivshanker's GitHub Stats" />
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jafarjtown&show_icons=true&line_height=27&count_private=true&custom_title=Jafar's%20GitHub%20Stats" alt="Jafar's GitHub Stats" />
 	</a>
 	<a href="https://github.com/the-brainiac">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-brainiac&hide=javascript&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarjtown&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
 	</a>
 </p>
