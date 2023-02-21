@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/jafarjere_idris" target="blank"><img src="https://img.shields.io/twitter/follow/jafarjere_idris?logo=twitter&style=for-the-badge" alt="jafarjere_idris" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [link](link)
 
 - 💬 Ask me about **Django, NextJS and Postgres**
 
 - 📫 How to reach me **jafaridris82@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [here](https://jafaruidris.pythonanywhere.com/)
 
 - ⚡ Fun fact **I think am lucky to know about Tech**
 
